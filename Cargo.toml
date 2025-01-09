@@ -1,0 +1,6 @@
+[package]
+name = "rust-pangenome-graph-tensors"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
